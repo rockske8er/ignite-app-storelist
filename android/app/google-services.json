@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "621491447113",
+    "project_id": "rockske8er-storelist",
+    "storage_bucket": "rockske8er-storelist.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:621491447113:android:9e5bdd19341d705fec2698",
+        "android_client_info": {
+          "package_name": "com.myshopping"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "621491447113-cqbhce47o2vkortatoi5a2otcjd601ct.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAL79W4ZRLcWwwMqlpZBo0xY80mceYk2VI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "621491447113-cqbhce47o2vkortatoi5a2otcjd601ct.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
